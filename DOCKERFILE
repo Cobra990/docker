@@ -2,3 +2,7 @@
 FROM nginx:alpine
 
 WORKDIR /app
+
+RUN npm install
+
+COPY . .
