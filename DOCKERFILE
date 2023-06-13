@@ -1,0 +1,2 @@
+#das wird ein Docker file
+FROM nginx:alpine
