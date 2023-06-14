@@ -7,6 +7,3 @@ RUN npm install
 
 COPY . .
 
-#test update remote
-# test 2
-
